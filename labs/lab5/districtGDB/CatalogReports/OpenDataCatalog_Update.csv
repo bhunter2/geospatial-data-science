@@ -1,0 +1,77 @@
+FULLNAME,TITLE,THEME,UPDATEFREQ,FIRSTADDED_OPENDATA,LASTPOSTED_SDW,WHENREFRESHED_OPENDATA,SHAPEFILE
+ada_ramp_point,RoadsGIS.RSDLIB.ADA_Ramp_point,transportation,Update Frequency not available,20171108,20220117,20220119,YES
+address_point,Addresses in King County,admin,Monthly,20160428,20220116,20220119,YES
+barricade_point,Barricades maintained by King County Roads Division,transportation,Daily,20171107,20220117,20220119,YES
+bridges_point,Bridges Maintained by King County,transportation,As needed,20171107,20220117,20220119,YES
+capacitychargecsa_area,maint.WTD.d_capacitychargecsa_post,utility,Update Frequency not available,20201029,20220112,20220119,YES
+changeablemessagesign_point,Changeable Message Sign,transportation,As needed,20171121,20220117,20220119,YES
+comfortstation_point,King County Metro Comfort Stations,transportation,As needed,20211209,20220118,20220119,YES
+curb_line,Curb maintained by King County Roads Division,transportation,Update Frequency not available,20171108,20220113,20220119,YES
+cut_pbrs_timber_area,King County Public Benefit Rating System and Timberland Current Use Taxation Properties,natres,As needed,20160927,20220114,20220119,YES
+delineator_point,Traffic Delineator,transportation,As needed,20171108,20220117,20220119,YES
+facility_point,Wastewater Treatment Facilities of King County,utility,Continually,20171108,20220115,20220119,YES
+fence_line,Fence maintained by King County Roads Division,transportation,Update Frequency not available,20171121,20220113,20220119,YES
+flasher_point,Title not available,transportation,Update Frequency not available,20171121,20220117,20220119,YES
+fp_cohointrinsicpotential_line,Coho Intrinsic Potential,natres,Update Frequency not available,20210719,20220118,20220119,YES
+fp_fishpassagesites_point,Fish Passage Sites,natres,Continually,20210819,20220118,20220119,NO
+fp_sitewatersheds_area,Fish Passage Site Watersheds,natres,As needed,20210719,20220118,20220119,NO
+fpp_farm_area,Farmland Preservation Program Farm Boundaries,natres,As needed,20210924,20220118,20220119,YES
+fpp_parcel_area,Farmland Preservation Program Parcels,natres,As needed,20210924,20220118,20220119,NO
+gutter_line,Gutter maintained by King County Roads Division,transportation,Update Frequency not available,20171121,20220113,20220119,YES
+gwsource_point,Groundwater Sources,hydro,Weekly,20160920,20220114,20220119,YES
+headwall_point,Headwall maintained by King County Roads Division,transportation,Update Frequency not available,20171121,20220117,20220119,YES
+hydrogauge_point,King County Hydrological Monitoring Gauges,hydro,Weekly,20171108,20220114,20220119,YES
+jerseybarrier_line,Jersey Barrier maintained by King County Roads Division,transportation,Update Frequency not available,20171121,20220113,20220119,YES
+kccdst_area,Metropolitan King County Council,district,As needed,20160828,20220113,20220119,YES
+marinestations_point,Marine Stations in King County,hydro,Weekly,20191024,20220114,20220119,NO
+mowableslope_line,Mowable Slope maintained by King County Roads Division,transportation,Update Frequency not available,20171107,20220113,20220119,YES
+noxiousweeddata_point,Noxious Weeds Survey Sitings,enviro,Weekly,20181025,20220118,20220119,NO
+parcel_area,Parcel,property,Weekly,20161102,20220114,20220119,YES
+parcel_address_area,Parcels for King County with Address; Property and Ownership Information,property,Weekly,20161102,20220118,20220119,NO
+park_area,Parks in King County,recreatn,As needed,20160502,20220116,20220119,YES
+park_area_kcparksonly,Title not available,recreatn,Update Frequency not available,20161108,99999999,20220119,NULL
+park_label_point,Park Label Points,recreatn,Update Frequency not available,20171108,20220116,20220119,YES
+park_property_area,Park Property Information,recreatn,As needed,20171108,20220116,20220119,YES
+pattern_line,King County Metro Pattern ,transportation,Daily,20171121,20220112,20220119,YES
+pavementmarking_point,Pavement Markings,transportation,Daily,20171108,20220117,20220119,YES
+planterbox_point,Planter Box maintained by King County Roads Division,transportation,Update Frequency not available,20171220,20220117,20220119,YES
+planterstrip_line,Planter Strip maintained by King County Roads Division,transportation,Update Frequency not available,20171108,20220113,20220119,YES
+pole_point,Title not available,transportation,Update Frequency not available,20171108,20220117,20220119,YES
+radarspeedsign_point,Radar Speed Signs,transportation,As needed,20180326,20220117,20220119,YES
+raisedpavementmarking_point,Raised Pavement Marking,transportation,Update Frequency not available,20171108,20220117,20220119,YES
+rd_facility_point,RD Facility maintained by King County Roads Division,transportation,Update Frequency not available,20180326,20220117,20220119,YES
+realprop_area,King County Real Property,property,Monthly,20161102,20220113,20220119,NO
+retainingwall_line,Retaining Wall maintained by King County Roads Division,transportation,Update Frequency not available,20180326,20220113,20220119,YES
+revegtrackerproject_area,Revegetation Tracker Projects in King County,natres,Daily,20210312,20220118,20220119,YES
+roadlog_line,Roadlog - Street Centerlines,transportation,Daily,20171108,20220113,20220119,YES
+roadlog_halfstreet_line,Roadlog - Half Streets,transportation,As needed,20180327,20220112,20220119,YES
+roadlog_onbond_line,Roadlog - On Bond,transportation,As needed,20180327,20220113,20220119,YES
+roadlog_reference_point,Roadlog Reference Points,transportation,As needed,20171108,20220117,20220119,YES
+roads_service_level_line,Roads Service Levels,transportation,Update Frequency not available,20171108,20220114,20220119,YES
+row_area,Rights of Way,property,Weekly,20161102,20220114,20220119,YES
+rsd_federalfunctionclass_line,RoadsGIS.RSDLIB.Roadlog_FederalFunctionClass_line,transportation,Update Frequency not available,20181025,20220114,20220119,YES
+rsd_maintshoppit_point,maint.ROADS.RSD_MaintShopPit_point,transportation,Update Frequency not available,20181019,20220117,20220119,YES
+sewer_line,Wastewater Conveyance of King County,utility,Continually,20171219,20220115,20220119,YES
+shoulder_line,Shoulders maintained by King County Roads Division,transportation,Update Frequency not available,20171109,20220114,20220119,YES
+shrp_project_point,Small Habitat Restoration Project (SHRP) Data,natres,Weekly,20181022,20220114,20220119,NO
+sidewalk_line,Sidewalk maintained by King County Roads Division,transportation,Update Frequency not available,20171109,20220114,20220119,YES
+sign_point,Traffic Signs,transportation,Daily,20171109,20220117,20220119,YES
+signal_point,Title not available,transportation,Update Frequency not available,20181022,20220117,20220119,YES
+speedbump_point,Speed Bump maintained by King County Roads Division,transportation,Update Frequency not available,20181022,20220117,20220119,YES
+storm_fac_point,Stormwater Facilities,utility,Weekly,20171109,20220114,20220119,YES
+striping_line,Roadway Striping (Pavement Marking line),transportation,Continually,20171109,20220112,20220119,YES
+tname,Metro TNAME Table in King County,transportation,Daily,20181029,20220112,20220119,YES
+trafficcamera_point,King County and WSDOT Traffic Cameras,transportation,Monthly,20181025,20220117,20220119,YES
+trafficisland_line,Traffic Island maintained by King County Roads Division,transportation,Update Frequency not available,20181025,20220114,20220119,YES
+trans_network_line,Metro Transportation Network (TNET) in King County,transportation,Daily,20160929,20220112,20220119,YES
+trans_network_bike_line,Metro Transportation Network (TNET) in King County for Bicycle Mode,transportation,Daily,20171108,20220112,20220119,YES
+trans_network_bus_line,Metro Transportation Network (TNET) in King County for Bus Mode,transportation,Daily,20171108,20220112,20220119,YES
+trans_network_car_line,Metro Transportation Network (TNET) in King County for Car Mode,transportation,Daily,20171108,20220112,20220119,YES
+trans_network_equest_line,Metro Transportation Network (TNET) in King County for Equestrian Mode,transportation,Daily,20181025,20220112,20220119,YES
+trans_tlink_tmode,Metro Transportation Network (TNET) Modes in King County,transportation,Daily,20181029,20220112,20220119,YES
+transit_reroutes_line,Metro Transit Reroutes in King County,transportation,Annually,20171207,20220112,20220119,YES
+transitroute_line,King County Metro Routes ,transportation,Continually,20171121,20220112,20220119,YES
+transitstop_point,King County Metro Stops,transportation,Daily,20171121,20220112,20220119,YES
+trashrack_point,Trashrack maintained by King County Roads Division,transportation,Update Frequency not available,20171207,20220117,20220119,YES
+tsp_signal_point,King County Metro Signal,transportation,Continually,20171121,20220112,20220119,YES
+wtrsamp_point,Water Sampling sites,hydro,Daily,20171108,20220119,20220119,YES
